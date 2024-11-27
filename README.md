@@ -1,8 +1,6 @@
 
 # Привет! 👋
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 Я фронтенд разработчик. Мой путь в программирование начался с языка программирования **Python**. Затем я начал заниматься версткой и немного стал изучать **JavaScript**. Сейчас я пишу фуллстек приложения с использованием **React** или **Next.js** и **Express** или **Nest.js**.
 
 За время учебы мне удалось реализовать полноценное веб-приложение для пиццерии на **JavaScript** с авторизацией, корзиной, добавлением товаров в корзину и многим другим.
@@ -32,10 +30,11 @@
 
 ## 🧑‍💻 Где меня найти:
 
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): [Написать в Telegram](https://t.me/your_telegram_username)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): [Написать в Telegram](https://t.me/uuuuuuuuuuuuuuukp)
 - ![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white): [Написать в VK](https://vk.com/your_vk_username)
-- **Leetcode**: [TimurLuk](https://leetcode.com/u/TimurLuk/)
-- **Codewars**: [TimurLuk](https://www.codewars.com/users/TimurLuk)
+- ![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white): [TimurLuk](https://leetcode.com/u/TimurLuk/)
+- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white): [TimurLuk](https://www.codewars.com/users/TimurLuk)
+- ![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white): [timurflash111@gmail.com](mailto:timurflash111@gmail.com)
 
 ---
 
