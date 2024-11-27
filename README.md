@@ -30,11 +30,11 @@
 
 ## 🧑‍💻 Где меня найти:
 
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): [Написать в Telegram](https://t.me/uuuuuuuuuuuuuuukp)
-- ![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white): [Написать в VK](https://vk.com/your_vk_username)
-- ![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white): [TimurLuk](https://leetcode.com/u/TimurLuk/)
-- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white): [TimurLuk](https://www.codewars.com/users/TimurLuk)
-- ![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white): [timurflash111@gmail.com](mailto:timurflash111@gmail.com)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/uuuuuuuuuuuuuuukp)
+- ![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white)(https://vk.com/your_vk_username)
+- ![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)(https://leetcode.com/u/TimurLuk/)
+- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)(https://www.codewars.com/users/TimurLuk)
+- ![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:timurflash111@gmail.com)
 
 ---
 
