@@ -30,7 +30,7 @@
 
 ## 🧑‍💻 Где меня найти:
 
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/uuuuuuuuuuuuuuukp)
+- <a href="https://t.me/uuuuuuuuuuuuuuukp">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 - ![VK](https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white)(https://vk.com/your_vk_username)
 - ![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)(https://leetcode.com/u/TimurLuk/)
 - ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)(https://www.codewars.com/users/TimurLuk)
