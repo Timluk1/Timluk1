@@ -24,7 +24,7 @@
 
 ## 📈 GitHub Статистика:
 
-![Timur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimurLuk&show_icons=true&theme=radical)
+![Timur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimLuk1&show_icons=true&theme=radical)
 
 ---
 
