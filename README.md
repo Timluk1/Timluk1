@@ -1,11 +1,9 @@
 
 # Привет! 👋
 
-Я фронтенд разработчик. Мой путь в программирование начался с языка программирования **Python**. Затем я начал заниматься версткой и немного стал изучать **JavaScript**. Сейчас я пишу фуллстек приложения с использованием **React** или **Next.js** и **Express** или **Nest.js**.
-
 ---
 
-## 🛠️ Мой стек технологий:
+## 🛠️ My stack:
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
@@ -20,13 +18,13 @@
 
 ---
 
-## 📈 GitHub Статистика:
+## 📈 GitHub Statistics:
 
 ![Timur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimLuk1&show_icons=true&theme=radical)
 
 ---
 
-## 🧑‍💻 Где меня найти:
+## 🧑‍💻 Where you can find me:
 
 - <a href="https://t.me/uuuuuuuuuuuuuuukp">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 - <a href="https://leetcode.com/u/TimurLuk/">![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)</a>
@@ -34,5 +32,3 @@
 - <a href="mailto:timurflash111@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ---
-
-Свяжитесь со мной, чтобы обсудить интересные проекты или сотрудничество! 🚀
