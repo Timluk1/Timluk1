@@ -16,14 +16,6 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📈 GitHub Statistics:
-
-![Timur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimLuk1&show_icons=true&theme=radical)
-
----
-
 ## 🧑‍💻 Where you can find me:
 
 - <a href="https://t.me/uuuuuuuuuuuuuuukp">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
